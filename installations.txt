@@ -1,0 +1,55 @@
+
+
+Script Name: setumusic
+Description: Top Songs  and Music Search Engine Script
+Author: itssetu (hacker sploit)
+Version: 1.0
+
+
+
+
+
+installations
+
+
+The installation is very easy. Let's guide you through the steps.
+	
+Step 1) Upload the contents of the Files folder to your webserver.
+
+	Open up your cPanel filemanager or FTP program and connect to your server, in this example I will use FileZilla ftp.
+	Upload the contents of the Files folder to your public_html folder:
+
+
+Important: Make sure you have also uploaded the .htaccess file, select 'show hidden files' in your filemanager if you cannot see it.
+
+Step 2) Login to the admin panel and update the site settings.
+
+	Login to the admin panel on http://mysite.com/admin/ with username= admin and password= password and fill in your site url, YouTube api key and other details and click Update.
+
+	The admin panel file has 4 sections explained here:
+	
+	Login Settings
+	
+	Here you can change the default username and password.
+	
+	Main Site Settings
+	
+	Here you can fill in your main settings like Website URL, Website title, youtube api key, website theme,
+	your email address for the contact form.
+	
+	Here you can also select which country and genre you want for the charts on the homepage and other options.
+	
+	SEO Settings
+	
+	Here you can edit your homepage title, description, meta keywords and other page titles.
+	
+	Translation Options
+	
+	Here you have the options to translate general text that is being used on the site.	
+	
+	When you are done, click the Update button to save your settings and enjoy your site!
+
+
+
+
+any problam email us itssetu@gmail.com
